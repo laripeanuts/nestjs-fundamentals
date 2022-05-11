@@ -34,7 +34,10 @@ The main purpose is to learn and practice how to create a API Restful.
 
 That's a branch for each step of the learning process.
 
-- [Introduction](https://github.com/laripeanuts/nestjs-fundamentals/tree/1-introduction)
+1 - [Introduction](https://github.com/laripeanuts/nestjs-fundamentals/tree/1-introduction)
+
+- Academind Lession - [Learn Nest.js from scratch by building an _API_](https://www.youtube.com/watch?v=F_oOtaxb0L8)
+  - Provides a overview of the process of creating a RESTful API showing the fundamentals e basics.
 
 ## Installation
 
