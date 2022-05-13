@@ -10,7 +10,7 @@ import { ProductsModule } from "./products/products.module";
   imports: [
     ProductsModule,
     MongooseModule.forRoot(
-      "mongodb+srv://admin:Sox3OiQlRt2055qo@eshop.ocptd.mongodb.net/eshop?retryWrites=true&w=majority",
+      "mongodb+srv://larissa:admin123ADMIN@eshop.ocptd.mongodb.net/newdb?retryWrites=true&w=majority",
     ),
   ],
   controllers: [AppController],
