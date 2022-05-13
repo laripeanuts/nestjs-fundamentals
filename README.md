@@ -34,15 +34,20 @@ The main purpose is to learn and practice how to create a API Restful.
 
 That's a branch for each step of the learning process.
 
-1 - [Introduction](https://github.com/laripeanuts/nestjs-fundamentals/tree/1-introduction)
+1 - [Introduction](https://github.com/laripeanuts/nestjs-fundamentals/tree/2-connect-mongodb)
 
 - Academind Lession - [Learn Nest.js from scratch by building an _API_](https://www.youtube.com/watch?v=F_oOtaxb0L8)
   - Provides a overview of the process of creating a RESTful API showing the fundamentals e basics. Used [Postman](https://www.getpostman.com/) to make requests.
 
+2 - [Connect to MongoDB](https://github.com/laripeanuts/nestjs-fundamentals/tree/1-introduction)
+
+- Academind Lession - [Nest.js with MongoDB](https://www.youtube.com/watch?v=ulfU5vY6I78)
+  - Connects our _API_ to a MongoDB database, using [Mongoose](https://mongoosejs.com/). Make request with [Insomnia](https://app.insomnia.rest/).
+
 ## Installation
 
 ```bash
-$ npm install
+npm install
 ```
 
 ## Running the app
